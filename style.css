@@ -1,6 +1,10 @@
 body{
     background-color: red;
 }
+
+p{
+    text-align: center;
+}
 header{
     background-color: blue;
 }
